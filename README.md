@@ -27,4 +27,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meetdomadia123&show_icons=true&locale=en&layout=compact" alt="meetdomadia123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meetdomadia123&" alt="meetdomadia123" /></p>
-<p><img align="center" src="https://leetcode.com/u/MeetDomadia//?user=MeetDomadia&" alt="MeetDomadia" /></p>
