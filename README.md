@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Meet</h1>
+<h1 align="center">Hi 👋, I'm Meet Domadia</h1>
 <h3 align="center">A passionate Software Developer & Problem Solver from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meetdomadia123&label=Profile%20views&color=0e75b6&style=flat" alt="meetdomadia123" /> </p>
