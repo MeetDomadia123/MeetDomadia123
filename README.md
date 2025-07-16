@@ -106,5 +106,5 @@
 
 <!-- Replace GitHub streak with LeetCode stats if streak isn't working -->
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/meetdomadia?ext=heatmap&theme=glass&animation=true&border=gradient" alt="LeetCode Unique Stats" />
+  <img src="https://leetcard.jacoblin.cool/meetdomadia?ext=heatmap&theme=glass&animation=true&theme=dark&border=gradient" alt="LeetCode Unique Stats" />
 </p>
