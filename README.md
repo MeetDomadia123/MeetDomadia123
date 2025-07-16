@@ -109,7 +109,3 @@
   <img src="https://leetcard.jacoblin.cool/meetdomadia?ext=heatmap&theme=glass&animation=true&theme=dark&border=gradient" alt="LeetCode Unique Stats" />
 </p>
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/meetdomadia?ext=heatmap&theme=fire&animation=true" alt="LeetCode Fire Theme" />
-</p>
-
