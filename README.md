@@ -110,5 +110,6 @@
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/meetdomadia?ext=heatmap&theme=glass" alt="LeetCode Glass UI Stats" />
+  <img src="https://leetcard.jacoblin.cool/meetdomadia?ext=heatmap&theme=fire&animation=true" alt="LeetCode Fire Theme" />
 </p>
+
